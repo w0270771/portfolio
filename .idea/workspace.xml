@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Gemfile" line="12" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31c20ec0-3bb6-4ff8-ac10-f4f308dce515" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
-    </list>
+    <list default="true" id="31c20ec0-3bb6-4ff8-ac10-f4f308dce515" name="Default" comment="" />
     <ignored path="NayeemaPortfolio.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -48,8 +45,8 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.57174885">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.7399103">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -932,8 +929,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57174885">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.7399103">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
           <folding />
         </state>
       </provider>
